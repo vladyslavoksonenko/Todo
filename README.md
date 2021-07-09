@@ -1,4 +1,8 @@
-# todo
+# Toto List
+
+### [DEMO](https://vladyslavoksonenko.github.io/todo/)
+
+![alt text][logo](https://github.com/vladyslavoksonenko/todo/blob/master/public/photoTodo.png)
 
 ## Project setup
 ```
